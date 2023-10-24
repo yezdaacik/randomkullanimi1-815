@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for random sınıf örnekleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for random sınıf örnekleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for_random_sınıf_örnekleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for_random_sınıf_örnekleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for random sınıf örnekleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for random sınıf örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\bin\Debug\for random sınıf örnekleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\bin\Debug\for random sınıf örnekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\bin\Debug\for random sınıf örnekleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for random sınıf örnekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for random sınıf örnekleri\for random sınıf örnekleri\obj\Debug\for random sınıf örnekleri.pdb
